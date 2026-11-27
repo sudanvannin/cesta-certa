@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /cesta-certa/
+
+Sitemap: https://sudanvannin.github.io/cesta-certa/sitemap.xml
